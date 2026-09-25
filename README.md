@@ -2,6 +2,7 @@ logger主题部分于2008年完成，但没有在实际项目中使用，最近�
 同时又整理了一个更简化的版本，简化版也许更适合日常使用
 
 #header
+
 #pragma once
 
 #include <string>
@@ -58,6 +59,7 @@ private:
 } // namespace clog
 
 #test
+
 #include <iostream>
 #include <clog/logger.h>
 
